@@ -6,7 +6,7 @@ A responsive and interactive clone of the Zomato food delivery platform built us
 
 ![image alt](https://github.com/learnercoder1310/Zomato-Website-Clone/blob/dc370bfed97eda6449da3716548502ab72f5e72d/outputs/Screenshot%202025-07-06%20191631.png)
 
-
+![image alt](https://github.com/learnercoder1310/Zomato-Website-Clone/blob/09f688781651b5d21669041748ce0d6f305623d0/outputs/zomato.png)
 ## 🔥 Features
 
 - **Home Page UI**: Clean and modern layout with location-based restaurant discovery.
